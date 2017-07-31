@@ -20,7 +20,10 @@ namespace _004_Encapsulamento
 
         public string Nome
         {
-            return _nome;
+            get
+            {
+                return _nome;
+            }
         }
         public Carro(string nome)
         {
