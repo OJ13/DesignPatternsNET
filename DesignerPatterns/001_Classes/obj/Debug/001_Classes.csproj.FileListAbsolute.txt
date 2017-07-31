@@ -1,0 +1,6 @@
+C:\Aula_E_Treinamento\NET\DesignerPatterns\001_Classes\bin\Debug\001_Classes.exe.config
+C:\Aula_E_Treinamento\NET\DesignerPatterns\001_Classes\bin\Debug\001_Classes.exe
+C:\Aula_E_Treinamento\NET\DesignerPatterns\001_Classes\bin\Debug\001_Classes.pdb
+C:\Aula_E_Treinamento\NET\DesignerPatterns\001_Classes\obj\Debug\001_Classes.csprojResolveAssemblyReference.cache
+C:\Aula_E_Treinamento\NET\DesignerPatterns\001_Classes\obj\Debug\001_Classes.exe
+C:\Aula_E_Treinamento\NET\DesignerPatterns\001_Classes\obj\Debug\001_Classes.pdb
