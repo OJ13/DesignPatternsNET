@@ -1,0 +1,5 @@
+C:\Aula_E_Treinamento\NET\DesignerPatterns\005_ClasseAbstrata\bin\Debug\005_ClasseAbstrata.exe.config
+C:\Aula_E_Treinamento\NET\DesignerPatterns\005_ClasseAbstrata\bin\Debug\005_ClasseAbstrata.exe
+C:\Aula_E_Treinamento\NET\DesignerPatterns\005_ClasseAbstrata\bin\Debug\005_ClasseAbstrata.pdb
+C:\Aula_E_Treinamento\NET\DesignerPatterns\005_ClasseAbstrata\obj\Debug\005_ClasseAbstrata.exe
+C:\Aula_E_Treinamento\NET\DesignerPatterns\005_ClasseAbstrata\obj\Debug\005_ClasseAbstrata.pdb

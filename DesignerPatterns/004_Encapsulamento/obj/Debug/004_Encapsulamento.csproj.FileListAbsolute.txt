@@ -1,1 +1,2 @@
 C:\Aula_E_Treinamento\NET\DesignerPatterns\004_Encapsulamento\bin\Debug\004_Encapsulamento.exe.config
+C:\Aula_E_Treinamento\NET\DesignerPatterns\004_Encapsulamento\obj\Debug\004_Encapsulamento.csprojResolveAssemblyReference.cache

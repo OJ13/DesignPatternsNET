@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_005_ClasseAbstrata.Notebook">
+    <Position X="0.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAIAAEAAAAAAAAQAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Notebook.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_005_ClasseAbstrata.Iphone" Collapsed="true">
+    <Position X="3.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Notebook.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_005_ClasseAbstrata.Mouse" Collapsed="true">
+    <Position X="3.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Notebook.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_005_ClasseAbstrata.Teclado" Collapsed="true">
+    <Position X="3.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Notebook.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

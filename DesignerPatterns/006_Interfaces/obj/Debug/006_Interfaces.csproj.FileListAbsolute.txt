@@ -1,0 +1,6 @@
+C:\Aula_E_Treinamento\NET\DesignerPatterns\006_Interfaces\bin\Debug\006_Interfaces.exe.config
+C:\Aula_E_Treinamento\NET\DesignerPatterns\006_Interfaces\bin\Debug\006_Interfaces.exe
+C:\Aula_E_Treinamento\NET\DesignerPatterns\006_Interfaces\bin\Debug\006_Interfaces.pdb
+C:\Aula_E_Treinamento\NET\DesignerPatterns\006_Interfaces\obj\Debug\006_Interfaces.csprojResolveAssemblyReference.cache
+C:\Aula_E_Treinamento\NET\DesignerPatterns\006_Interfaces\obj\Debug\006_Interfaces.exe
+C:\Aula_E_Treinamento\NET\DesignerPatterns\006_Interfaces\obj\Debug\006_Interfaces.pdb
