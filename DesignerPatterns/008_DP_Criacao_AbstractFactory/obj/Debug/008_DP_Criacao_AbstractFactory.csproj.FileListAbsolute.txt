@@ -1,0 +1,6 @@
+C:\Aula_E_Treinamento\NET\DesignerPatterns\008_DP_Criacao_AbstractFactory\bin\Debug\008_DP_Criacao_AbstractFactory.exe.config
+C:\Aula_E_Treinamento\NET\DesignerPatterns\008_DP_Criacao_AbstractFactory\bin\Debug\008_DP_Criacao_AbstractFactory.exe
+C:\Aula_E_Treinamento\NET\DesignerPatterns\008_DP_Criacao_AbstractFactory\bin\Debug\008_DP_Criacao_AbstractFactory.pdb
+C:\Aula_E_Treinamento\NET\DesignerPatterns\008_DP_Criacao_AbstractFactory\obj\Debug\008_DP_Criacao_AbstractFactory.csprojResolveAssemblyReference.cache
+C:\Aula_E_Treinamento\NET\DesignerPatterns\008_DP_Criacao_AbstractFactory\obj\Debug\008_DP_Criacao_AbstractFactory.exe
+C:\Aula_E_Treinamento\NET\DesignerPatterns\008_DP_Criacao_AbstractFactory\obj\Debug\008_DP_Criacao_AbstractFactory.pdb

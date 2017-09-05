@@ -1,0 +1,6 @@
+C:\Aula_E_Treinamento\NET\DesignerPatterns\007_Delegacao\bin\Debug\007_Delegacao.exe.config
+C:\Aula_E_Treinamento\NET\DesignerPatterns\007_Delegacao\bin\Debug\007_Delegacao.exe
+C:\Aula_E_Treinamento\NET\DesignerPatterns\007_Delegacao\bin\Debug\007_Delegacao.pdb
+C:\Aula_E_Treinamento\NET\DesignerPatterns\007_Delegacao\obj\Debug\007_Delegacao.csprojResolveAssemblyReference.cache
+C:\Aula_E_Treinamento\NET\DesignerPatterns\007_Delegacao\obj\Debug\007_Delegacao.exe
+C:\Aula_E_Treinamento\NET\DesignerPatterns\007_Delegacao\obj\Debug\007_Delegacao.pdb
