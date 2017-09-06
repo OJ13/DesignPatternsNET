@@ -1,0 +1,6 @@
+C:\Aula_E_Treinamento\NET\DesignerPatterns\009_DP_Criacao_Builder\bin\Debug\009_DP_Criacao_Builder.exe.config
+C:\Aula_E_Treinamento\NET\DesignerPatterns\009_DP_Criacao_Builder\bin\Debug\009_DP_Criacao_Builder.exe
+C:\Aula_E_Treinamento\NET\DesignerPatterns\009_DP_Criacao_Builder\bin\Debug\009_DP_Criacao_Builder.pdb
+C:\Aula_E_Treinamento\NET\DesignerPatterns\009_DP_Criacao_Builder\obj\Debug\009_DP_Criacao_Builder.csprojResolveAssemblyReference.cache
+C:\Aula_E_Treinamento\NET\DesignerPatterns\009_DP_Criacao_Builder\obj\Debug\009_DP_Criacao_Builder.exe
+C:\Aula_E_Treinamento\NET\DesignerPatterns\009_DP_Criacao_Builder\obj\Debug\009_DP_Criacao_Builder.pdb

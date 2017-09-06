@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007_Delegacao", "007_Delega
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008_DP_Criacao_AbstractFactory", "008_DP_Criacao_AbstractFactory\008_DP_Criacao_AbstractFactory.csproj", "{CDF415EB-5D96-47BA-9695-83FAAC00BE79}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009_DP_Criacao_Builder", "009_DP_Criacao_Builder\009_DP_Criacao_Builder.csproj", "{1441A286-5275-4CE8-8325-42453C2F833B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{CDF415EB-5D96-47BA-9695-83FAAC00BE79}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CDF415EB-5D96-47BA-9695-83FAAC00BE79}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CDF415EB-5D96-47BA-9695-83FAAC00BE79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1441A286-5275-4CE8-8325-42453C2F833B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1441A286-5275-4CE8-8325-42453C2F833B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1441A286-5275-4CE8-8325-42453C2F833B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1441A286-5275-4CE8-8325-42453C2F833B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
