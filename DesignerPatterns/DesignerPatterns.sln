@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008_DP_Criacao_AbstractFact
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009_DP_Criacao_Builder", "009_DP_Criacao_Builder\009_DP_Criacao_Builder.csproj", "{1441A286-5275-4CE8-8325-42453C2F833B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010_DP_Criacao_FactoryMethod", "0010_DP_Criacao_FactoryMethod\010_DP_Criacao_FactoryMethod.csproj", "{9C25BAC5-B7EC-4E14-A454-39648C4E425F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{1441A286-5275-4CE8-8325-42453C2F833B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1441A286-5275-4CE8-8325-42453C2F833B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1441A286-5275-4CE8-8325-42453C2F833B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C25BAC5-B7EC-4E14-A454-39648C4E425F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C25BAC5-B7EC-4E14-A454-39648C4E425F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C25BAC5-B7EC-4E14-A454-39648C4E425F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C25BAC5-B7EC-4E14-A454-39648C4E425F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

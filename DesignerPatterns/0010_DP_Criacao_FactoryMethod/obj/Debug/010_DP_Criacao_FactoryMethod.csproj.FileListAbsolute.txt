@@ -1,0 +1,6 @@
+C:\Aula_E_Treinamento\NET\DesignerPatterns\0010_DP_Criacao_FactoryMethod\bin\Debug\0010_DP_Criacao_FactoryMethod.exe.config
+C:\Aula_E_Treinamento\NET\DesignerPatterns\0010_DP_Criacao_FactoryMethod\bin\Debug\0010_DP_Criacao_FactoryMethod.exe
+C:\Aula_E_Treinamento\NET\DesignerPatterns\0010_DP_Criacao_FactoryMethod\bin\Debug\0010_DP_Criacao_FactoryMethod.pdb
+C:\Aula_E_Treinamento\NET\DesignerPatterns\0010_DP_Criacao_FactoryMethod\obj\Debug\010_DP_Criacao_FactoryMethod.csprojResolveAssemblyReference.cache
+C:\Aula_E_Treinamento\NET\DesignerPatterns\0010_DP_Criacao_FactoryMethod\obj\Debug\0010_DP_Criacao_FactoryMethod.exe
+C:\Aula_E_Treinamento\NET\DesignerPatterns\0010_DP_Criacao_FactoryMethod\obj\Debug\0010_DP_Criacao_FactoryMethod.pdb
