@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009_DP_Criacao_Builder", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010_DP_Criacao_FactoryMethod", "0010_DP_Criacao_FactoryMethod\010_DP_Criacao_FactoryMethod.csproj", "{9C25BAC5-B7EC-4E14-A454-39648C4E425F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "011_DP_Criacao_Prototype", "011_DP_Criacao_Prototype\011_DP_Criacao_Prototype.csproj", "{9A806244-EC2B-4EB8-B2C5-2DDAAC24D7F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{9C25BAC5-B7EC-4E14-A454-39648C4E425F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C25BAC5-B7EC-4E14-A454-39648C4E425F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C25BAC5-B7EC-4E14-A454-39648C4E425F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A806244-EC2B-4EB8-B2C5-2DDAAC24D7F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A806244-EC2B-4EB8-B2C5-2DDAAC24D7F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A806244-EC2B-4EB8-B2C5-2DDAAC24D7F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A806244-EC2B-4EB8-B2C5-2DDAAC24D7F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
