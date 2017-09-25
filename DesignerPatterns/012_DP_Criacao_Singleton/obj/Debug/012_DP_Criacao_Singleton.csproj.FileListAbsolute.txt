@@ -1,0 +1,6 @@
+C:\Aula_E_Treinamento\NET\DesignerPatterns\012_DP_Criacao_Singleton\bin\Debug\012_DP_Criacao_Singleton.exe.config
+C:\Aula_E_Treinamento\NET\DesignerPatterns\012_DP_Criacao_Singleton\obj\Debug\012_DP_Criacao_Singleton.csprojResolveAssemblyReference.cache
+C:\Aula_E_Treinamento\NET\DesignerPatterns\012_DP_Criacao_Singleton\bin\Debug\012_DP_Criacao_Singleton.exe
+C:\Aula_E_Treinamento\NET\DesignerPatterns\012_DP_Criacao_Singleton\bin\Debug\012_DP_Criacao_Singleton.pdb
+C:\Aula_E_Treinamento\NET\DesignerPatterns\012_DP_Criacao_Singleton\obj\Debug\012_DP_Criacao_Singleton.exe
+C:\Aula_E_Treinamento\NET\DesignerPatterns\012_DP_Criacao_Singleton\obj\Debug\012_DP_Criacao_Singleton.pdb
